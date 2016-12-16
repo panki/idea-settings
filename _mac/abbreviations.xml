@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorPasteSimple">
+        <abbreviation name="aaa" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

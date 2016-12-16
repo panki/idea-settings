@@ -1,0 +1,9 @@
+<toolSet name="Npm Tools">
+  <tool name="Lint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="run lint" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/klab/content-pipeline" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="aws" type="Bash" />
+      <mapping pattern="migrate" type="Bash" />
+      <mapping pattern="migration" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

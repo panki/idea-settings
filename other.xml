@@ -1,0 +1,14 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/work/klab/content-pipeline/node_modules/.bin/babel-node">
+      <version-cache version="6.16.0" last-modified="1452261689000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.9.1/bin/node">
+      <version-cache version="6.9.1" last-modified="1476914535000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.9.1" last-modified="1476914535000" />
+    </local-interpreter>
+  </component>
+</application>
