@@ -9,6 +9,7 @@
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="redis" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
