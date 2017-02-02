@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="aws" type="Bash" />
       <mapping pattern="migrate" type="Bash" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="migration" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
