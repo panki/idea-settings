@@ -1,9 +1,10 @@
 <scheme name="last" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-10-22T20:28:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.2.5.0.0</property>
-    <property name="modified">2017-03-03T19:38:20</property>
+    <property name="modified">2017-03-25T11:50:55</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1048,6 +1049,23 @@
     <option name="GHERKIN_TAG">
       <value>
         <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="5e8db6" />
+      </value>
+    </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_TYPE_SPECIFICATION">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GQL_INT_LITERAL">
