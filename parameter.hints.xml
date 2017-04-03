@@ -1,5 +1,5 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <option id="go.struct.unnamed.struct.fields" value="false" />
   </component>
 </application>
