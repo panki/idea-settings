@@ -12,6 +12,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
